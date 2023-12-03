@@ -26,7 +26,7 @@ const setup = () => {
 describe("Accordion Test cases", () => {
   test("check for Buttons length", () => {
     setup();
-    const title2 = screen.queryAllByRole("button");
+    const title2 = screen.queryAllByRole("tab");
     expect(title2).toHaveLength(2);
   });
 

@@ -7,6 +7,7 @@ const Accordion = (props: CollapseProps) => {
   return (
     <>
       <Collapse
+        accordion
         items={props.items}
         expandIconPosition={"end"}
         expandIcon={({ isActive }) => (
