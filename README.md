@@ -1,6 +1,7 @@
 # Lodgify
 
 This application is built using the React JavaScript library, with TypeScript for type checking and Vite as the development environment.
+Test Cases are written using Vitest and React Testing library.
 
 ## APP IS DEPLOYED ON VERCEL
 
