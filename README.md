@@ -4,7 +4,7 @@ This application is built using the React JavaScript library, with TypeScript fo
 
 ## APP IS DEPLOYED ON VERCEL
 
-- [View live Demo: Lodgify Link]()
+- [View live Demo: Lodgify Link](https://lodgify-talha.vercel.app/)
 
 ## Setup Instructions
 
@@ -23,7 +23,7 @@ To get started, just clone the repository and run `npm install && npm run dev`:
     npm install
     npm run dev
 
-## Building and deploying in production
+## Create production build
 
 If you wanted to run this site in production, you should install modules then build the site with `npm run build` and run it with `npm start`:
 
